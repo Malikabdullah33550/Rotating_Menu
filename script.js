@@ -1,6 +1,6 @@
 let open = document.getElementById('open');
 let close = document.getElementById('close');
-let container = document.querySelectorAll('.container');
+let container = document.querySelector('.container');
 
 // open.addEventlistener('click', () => container.classList.add('show-nav'))
 
